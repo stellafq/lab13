@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /temp/
+Sitemap: https://stellafq.github.io/lab13/sitemap.xml
